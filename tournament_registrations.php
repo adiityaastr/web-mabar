@@ -22,6 +22,7 @@ $registrations = getRegistrations();
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="main-wrapper" style="min-height:100vh;display:flex;flex-direction:column;">
     <nav class="navbar">
         <div class="logo">
             <a href="index.php">
@@ -92,7 +93,7 @@ $registrations = getRegistrations();
 
     <footer>
         <div class="footer-content">
-            <p>&copy; 2024 GamerHub Community. Created by [Your Name]</p>
+            <p>&copy; 2024 GamerHub Community. Dibuat oleh Muhamad Aditya Saoutra | 411231139</p>
             <div class="social-links">
                 <a href="#"><i class="fab fa-discord"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
@@ -100,6 +101,7 @@ $registrations = getRegistrations();
             </div>
         </div>
     </footer>
+    </div>
     <script>
         // Mobile Navigation
         document.addEventListener('DOMContentLoaded', function() {

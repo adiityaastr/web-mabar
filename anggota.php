@@ -101,7 +101,7 @@
 
     <footer>
         <div class="footer-content">
-            <p>&copy; 2024 GamerHub Community. Created by [Your Name]</p>
+            <p>&copy; 2024 GamerHub Community. Dibuat oleh Muhamad Aditya Saoutra | 411231139</p>
             <div class="social-links">
                 <a href="#"><i class="fab fa-discord"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
